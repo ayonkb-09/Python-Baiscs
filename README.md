@@ -1,2 +1,2 @@
 # Python-Baiscs
-Here i learning python from scratch for building base in programming world.😊
+A complete roadmap of Python fundamentals using a real-world Data Processing example.😊
