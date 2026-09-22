@@ -1,0 +1,6 @@
+x=str(100)
+y=int(200)
+z=float(300)
+print(z)
+print(x)
+print(y)
